@@ -6,14 +6,17 @@ Instructions to this assignment can be found [here](#).
 
 ## Checklist:
 - [x] update the assignment checks above to the correct link. - Done Automatically
-- [ ] make sure the assignment checks pass
-- [ ] fill out the self evaluation and Reflection
-- [ ] submit the repository link on Canvas
+- [x] make sure the assignment checks pass
+- [x] fill out the self evaluation and Reflection
+- [x] submit the repository link on Canvas
 
 ## Self-Evaluation:
+pretty easy, the only thing is remember how the code works
 
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment:21
+extra point because I made a enter code avaliable for the click-only btn
 
 ## Self-Reflection:
 
 ### How long it took me to finish this?
+like two to three hours, the answer is actually in the document. The only thing I need to do is work with it. Nothing really special
