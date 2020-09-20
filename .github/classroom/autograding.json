@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "AutoGrader",
-      "setup": "",
+      "setup": "npm install",
       "run": "npm test",
       "input": "",
       "output": "",
